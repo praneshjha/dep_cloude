@@ -1,0 +1,1 @@
+<p>Dear <b>{{Auth::user()->name}}</b> {{Auth::user()->last_name}} your password for departure cloud has been changed successfully.If you have not initiated this change pls contact Departure Cloud support immediately.</p>

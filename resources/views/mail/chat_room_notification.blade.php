@@ -1,0 +1,1 @@
+<p>Dear {{$r_user->name}} {{$r_user->last_name}}</p>                                                                              <p> Mr/Ms {{$s_user->name}} {{$s_user->last_name}} from {{$s_user->company_name}}   tried to contact you in departure cloud chat. To view message pls <a href="{{$last_link_sup}}">click here</a>.</p><br>
